@@ -1,0 +1,52 @@
+
+.he{
+    background-color: black;
+    height: 150px;
+}
+.gif{  
+    width: 10%;
+    height: 150px;
+    float: left;
+    background-repeat: no-repeat;
+}
+.texto{
+    width: 20%;
+    float: left;
+    margin-top: 30px;
+}
+
+nav{
+    width: 90%;
+}
+  
+li{
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  float:right;
+  list-style-type: none;
+  margin-top: 60px;
+}
+
+.header-title{
+    font-family: 'Times New Roman';
+    color: ivory;
+    text-align: center;
+    margin-bottom: 0mm;
+    }
+    
+.header-sub-title{
+    margin-top: 0mm;
+    font-family: 'Times New Roman';
+    color: ivory;
+    text-align: center;
+}
+
+a:hover{
+    color: lightskyblue;
+}
+
+a{
+    text-decoration: none;
+    margin: 30px;
+    color: ivory;
+}

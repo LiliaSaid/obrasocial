@@ -1,0 +1,53 @@
+.contenedor{
+    background-color: darkgrey;
+    height: 1000px;
+    align-content: center;
+}   
+
+.boton-centrado{
+    position: relative;
+    min-height: 150px;
+}
+
+form{
+    text-align: center;
+    background-color:lightgray;
+    width: 450px;
+    padding: 10px;
+    
+    margin-left: 300px;
+    border-color: black;
+    border-radius: 10px;
+    
+    }
+label{
+    float: left;
+    background-color: silver;
+    width: 150px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+
+
+
+.input-width{
+	width: 200px;
+}
+
+.input-margin{
+    margin-top: 15px;
+}
+
+.button-green{
+    background: -webkit-radial-gradient(lightgreen,green);
+    background: -moz-radial-gradient(#0f0, #06f);
+ }
+ .button-red{
+    background: -webkit-radial-gradient(lightsalmon,red);
+    background: -moz-radial-gradient(#0f0, #06f);
+ }
+
